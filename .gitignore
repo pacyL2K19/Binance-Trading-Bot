@@ -1,0 +1,10 @@
+# vs code files
+.vscode/*
+
+# dist files
+/build/
+/dist/
+/docs/_*
+*.egg-info/
+*.py[co]
+.venv*
